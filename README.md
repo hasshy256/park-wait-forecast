@@ -6,3 +6,6 @@
 - 中身は独自に計算した**予測値**です（待ち時間の実績は含みません）。予測は目安です
 - 予測の元データ: Powered by [ThemeParks.wiki](https://themeparks.wiki/) ／ 天気: Weather data by [Open-Meteo.com](https://open-meteo.com/)
 - アトラクション名は識別のためだけに使っています
+- 飲食店の名前・位置（`restaurants`）は [OpenStreetMap](https://www.openstreetmap.org/copyright) 由来で、
+  © OpenStreetMap contributors。この部分は [ODbL](https://opendatacommons.org/licenses/odbl/) で提供します。
+  食べ物（`foods`）は独自の下書きです
